@@ -1,0 +1,28 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    background-color: #000;
+    border-radius: 5px;
+    width: 100%;
+    justify-content: flex-end;
+    
+  }
+  
+
+  span{
+    width: 2%;
+    margin: 1%;
+  }
+  
+  
+  input[type="text"] {
+    background-color: #000;
+    color: yellow;
+    
+    border-color: yellow;
+    outline: 5px yellow;
+    font-size: 16px;
+    margin: 2%;
+    padding: 1%;
+  }
+  

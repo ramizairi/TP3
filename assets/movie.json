@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "The Enchanted Forest",
+        "image": "enchanted_forest.png",
+        "creation_date": "2020-05-12",
+        "genre": "Fantasy",
+        "producer": "Emily Sanders",
+        "description": "A magical journey through an ancient forest filled with mythical creatures.",
+        "rating": 7.5,
+        "duration": "2h 15min"
+    },
+    {
+        "id": 2,
+        "title": "The Final Frontier",
+        "image": "final_frontier.png",
+        "creation_date": "2021-07-15",
+        "genre": "Sci-Fi",
+        "producer": "Michael Anderson",
+        "description": "A thrilling adventure in space as astronauts encounter alien civilizations.",
+        "rating": 8.2,
+        "duration": "2h 45min"
+    },
+    {
+        "id": 3,
+        "title": "Hearts in Paris",
+        "image": "hearts_paris.png",
+        "creation_date": "2019-03-22",
+        "genre": "Romance",
+        "producer": "Claire Fontaine",
+        "description": "A heartfelt love story set in the romantic city of Paris.",
+        "rating": 7.9,
+        "duration": "1h 50min"
+    },
+    {
+        "id": 4,
+        "title": "The Secret Agent",
+        "image": "secret_agent.png",
+        "creation_date": "2018-11-01",
+        "genre": "Action",
+        "producer": "James L. Knight",
+        "description": "An undercover agent uncovers a high-stakes conspiracy.",
+        "rating": 6.8,
+        "duration": "2h 5min"
+    },
+    {
+        "id": 5,
+        "title": "Lost in the Wild",
+        "image": "lost_wild.png",
+        "creation_date": "2020-09-30",
+        "genre": "Adventure",
+        "producer": "Rachel Brooks",
+        "description": "Survivors of a plane crash fight for survival in the wilderness.",
+        "rating": 7.4,
+        "duration": "1h 55min"
+    },
+    {
+        "id": 6,
+        "title": "Echoes of the Past",
+        "image": "echoes_past.png",
+        "creation_date": "2019-12-10",
+        "genre": "Drama",
+        "producer": "Oliver Grant",
+        "description": "A family's history is revealed through a series of haunting events.",
+        "rating": 8.0,
+        "duration": "2h 10min"
+    },
+    {
+        "id": 7,
+        "title": "Rise of the Titans",
+        "image": "rise_titans.png",
+        "creation_date": "2021-05-28",
+        "genre": "Fantasy",
+        "producer": "Sophie Tanaka",
+        "description": "A battle between ancient giants for control of the world.",
+        "rating": 8.5,
+        "duration": "2h 30min"
+    },
+    {
+        "id": 8,
+        "title": "City Lights",
+        "image": "city_lights.png",
+        "creation_date": "2017-02-14",
+        "genre": "Comedy",
+        "producer": "Sam Cooper",
+        "description": "The humorous misadventures of a quirky group in a bustling city.",
+        "rating": 7.0,
+        "duration": "1h 40min"
+    },
+    {
+        "id": 9,
+        "title": "The Unknown Soldier",
+        "image": "unknown_soldier.png",
+        "creation_date": "2018-08-05",
+        "genre": "War",
+        "producer": "Peter A. Hamilton",
+        "description": "A young soldier's journey through the chaos of war.",
+        "rating": 7.6,
+        "duration": "2h 20min"
+    },
+    {
+        "id": 10,
+        "title": "Chasing Shadows",
+        "image": "chasing_shadows.png",
+        "creation_date": "2022-01-18",
+        "genre": "Thriller",
+        "producer": "Linda Blake",
+        "description": "A detective hunts down a serial killer leaving cryptic clues.",
+        "rating": 8.3,
+        "duration": "2h 25min"
+    }
+]

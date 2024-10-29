@@ -1,0 +1,13 @@
+<div *ngIf="movie; else noMovie">
+    <h2>{{ movie.title }} ({{ movie.date }})</h2>
+    <img src="{{movie.image}}" alt="cover">
+    <p><strong>Description:</strong> {{ movie.description }}</p>
+    <p><strong>Vote count:</strong> {{ movie.vote_count }}</p>
+    <p><strong>Genre:</strong> {{ movie.genre }}</p>
+    <p><strong>Rating:</strong> {{ movie.rating }} </p>
+  </div>
+  
+  <ng-template #noMovie>
+    <p>No movie selected.</p>
+  </ng-template>
+  

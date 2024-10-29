@@ -1,0 +1,16 @@
+<app-search-bar (search)="onSearch($event)"></app-search-bar>
+
+<div *ngIf="filteredMovies.length > 0; else noMovies">
+  <ul>
+    <li *ngFor="let movie of filteredMovies">
+      
+      <img src="{{movie.image}}" alt="cover">
+      {{ movie.title }} ({{ movie.date }})
+
+    </li>
+  </ul>
+</div>
+
+<ng-template #noMovies>
+  <p>Aucun film trouvé pour le titre "{{ searchTerm }}"</p>
+</ng-template>
